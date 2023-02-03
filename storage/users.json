@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "email": "admin@domain.tld",
+    "password": "$2y$10$z1OAqt2QKDPHaId8HDbbm.tOxnaP8gRjAlploh1ik3zRcD0jcS8Bu"
+  },
+  {
+    "id": 2,
+    "email": "cris@domain.tld",
+    "password": "$2y$10$z1OAqt2QKDPHaId8HDbbm.tOxnaP8gRjAlploh1ik3zRcD0jcS8Bu"
+  }
+]
