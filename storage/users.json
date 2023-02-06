@@ -2,11 +2,17 @@
   {
     "id": 1,
     "email": "admin@domain.tld",
-    "password": "$2y$10$z1OAqt2QKDPHaId8HDbbm.tOxnaP8gRjAlploh1ik3zRcD0jcS8Bu"
+    "name": "Admin",
+    "remember_me_token": "",
+    "password": "$2y$10$z1OAqt2QKDPHaId8HDbbm.tOxnaP8gRjAlploh1ik3zRcD0jcS8Bu",
+    "note": "default password is 'dev'"
   },
   {
     "id": 2,
     "email": "cris@domain.tld",
-    "password": "$2y$10$z1OAqt2QKDPHaId8HDbbm.tOxnaP8gRjAlploh1ik3zRcD0jcS8Bu"
+    "name": "Cris",
+    "remember_me_token": "",
+    "password": "$2y$10$z1OAqt2QKDPHaId8HDbbm.tOxnaP8gRjAlploh1ik3zRcD0jcS8Bu",
+    "note": "default password is 'dev'"
   }
 ]
